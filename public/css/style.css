@@ -238,6 +238,26 @@ footer p {
         font-size: 4.7rem;
     }
 
+    .mainHeaderRight figure{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 6rem;
+    }
+    .mainHeaderRight figure img{
+        width: 90%;
+        height: 90%;
+    }
+
+    .mainHeaderLeft{
+        margin-left: 4rem;
+        width: 80%;
+    }
+
+    .mainHeaderLeft h1{
+        font-size: 5rem;
+        /* width: 80%; */
+    }
     .tempForm{
         width: auto;
     }
